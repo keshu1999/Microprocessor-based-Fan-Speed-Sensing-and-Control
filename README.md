@@ -1,6 +1,6 @@
 ## Problem statement
 
-### System to be designedFan Speed Sensing and Control
+### System to be designed: Fan Speed Sensing and Control
 
 #### Description
 This system senses the speed at which the fan is rotating and adjusts the speed, based on the user input. The user can select three different speeds of the fan. The current speed should be sensed and the control mechanism should gradually increase the speed to the desired speed.
